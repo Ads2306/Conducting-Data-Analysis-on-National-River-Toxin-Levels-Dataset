@@ -37,8 +37,8 @@ This project assesses longitudinal water quality indicators ($N = 1,305$ weekly 
 
 ## 📊 Visualizations Included
 - Bar Charts: Categorical ranking of mean Lead, Mercury, and Arsenic levels across all five river systems.
--Longitudinal Line Plots: Multi-line time series (hue='River_System') showing temporal fluctuations and stationary long-term baselines.
--Correlation Heatmap: Annotated correlation matrix showcasing relationships across all numerical water quality metrics.
+- Longitudinal Line Plots: Multi-line time series (hue='River_System') showing temporal fluctuations and stationary long-term baselines.
+- Correlation Heatmap: Annotated correlation matrix showcasing relationships across all numerical water quality metrics.
 
 ## 🎯 Policy & Practical Recommendations
 
