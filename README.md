@@ -2,7 +2,9 @@
 
 An exploratory data analysis (EDA) and statistical modeling project analyzing chemical properties and heavy metal pollutant levels across five major world river systems (Amazon, Danube, Mississippi, Nile, and Yangtze) between 2018 and 2023.
 
-## 📌 Executive SummaryThis project assesses longitudinal water quality indicators ($N = 1,305$ weekly observations) to identify pollution hot spots, trace temporal toxin trends, and evaluate environmental correlations among heavy metals and chemical indicators ($\text{pH}$, Dissolved Oxygen, Nitrates, Phosphates).
+## 📌 Executive Summary
+
+This project assesses longitudinal water quality indicators ($N = 1,305$ weekly observations) to identify pollution hot spots, trace temporal toxin trends, and evaluate environmental correlations among heavy metals and chemical indicators ($\text{pH}$, Dissolved Oxygen, Nitrates, Phosphates).
 
 ## Key Insights
 - Pollution Hierarchy: The Yangtze River exhibits the highest concentration across all primary heavy metals analyzed (Lead: $4.01\text{ mg/L}$, Mercury: $0.78\text{ mg/L}$, Arsenic: $4.97\text{ mg/L}$).
