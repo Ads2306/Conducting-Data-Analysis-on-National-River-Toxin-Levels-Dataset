@@ -29,7 +29,8 @@ This project assesses longitudinal water quality indicators ($N = 1,305$ weekly 
   - Test Result: $t = -20.238$, $p = 1.338 \times 10^{-67}$
   - Conclusion: Reject $H_0$. The Nile has a significantly higher baseline Lead concentration than the Amazon River.
 
-  B. Simple Linear Regression ($\text{Lead} \sim \text{pH\_Level}$)To evaluate how water acidity influences Lead solubility, a simple linear model was fitted:$$\text{Lead} = \beta_0 + \beta_1 (\text{pH\_Level})$$
+  B. Simple Linear Regression ($\text{Lead} \sim \text{pH\_Level}$)
+  To evaluate how water acidity influences Lead solubility, a simple linear model was fitted:$$\text{Lead} = \beta_0 + \beta_1 (\text{pH\_Level})$$
   - Slope ($\beta_1$): $0.8029$
   - Intercept ($\beta_0$): $-2.8932$
   - Interpretation: Every $1.0$ unit increase in $\text{pH}$ correlates with an estimated $0.803\text{ mg/L}$ increase in Lead concentration.
